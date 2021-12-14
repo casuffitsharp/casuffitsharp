@@ -1,16 +1,14 @@
-### Hi there 👋
+Hey there! I'm Henrique Azevedo.
 
-<!--
-**henriqueazevedo1999/henriqueazevedo1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most Used Languages
+<code><img height= "20"src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 
-Here are some ideas to get you started:
+🛠 Frameworks
+<code><img height= "20"src= "https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other Accounts 📫
+
+[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueazevedo1999)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueazevedo1999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
