@@ -10,7 +10,7 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=henriqueazevedo1999&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,prs,issues" width="350"></a>
   <br>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueazevedo1999&layout=compact&hide=Java&theme=tokyonight" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueazevedo1999&layout=compact&theme=tokyonight" width="350"></a>
 </p>
 
 <h2 align='center'>🛠 Frameworks</h2>
