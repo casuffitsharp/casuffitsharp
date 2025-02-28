@@ -1,7 +1,7 @@
 <h1 align='center'>Hey there! I'm Henrique</h1>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/henriquefa/">
+  <a href="https://www.linkedin.com/in/hfazevedo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp; 
 </p>
